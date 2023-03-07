@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b653f4d-03f9-45cc-9c0e-e3de8f42293d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Res/AlienEnemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Res/Bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Res/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Res/UFO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="8b653f4d-03f9-45cc-9c0e-e3de8f42293d" name="Changes" comment="Commit1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/AlienEnemy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Res/AlienEnemy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/Bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Res/Bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/Player.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Res/Player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/UFO.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Res/UFO.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +62,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erkan\IdeaProjects\SpaceinvadersRemixed\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SpaceinvadersRemixed" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\erkan\Libs\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,8 +85,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678197459334</updated>
-      <workItem from="1678197460434" duration="4542000" />
+      <workItem from="1678197460434" duration="6276000" />
     </task>
+    <task id="LOCAL−00001" summary="Commit1">
+      <created>1678203878464</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1678203878464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
   </component>
 </project>

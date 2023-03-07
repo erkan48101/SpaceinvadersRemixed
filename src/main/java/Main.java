@@ -1,6 +1,7 @@
 import javafx.application.Application;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.stage.Stage;
+import javafx.scene.image.Image;
 
 import java.awt.*;
 import java.util.Random;
@@ -11,8 +12,8 @@ public class Main extends Application {
     private static final int HEIGHT = 600;
     private static final int PLAYER_SIZE = 60;
 
-    static final Image PLAYER_IMG = new Image("file:\"C:\\SpaceInvadersAssets\\Player.png\"");
-    static final Image EXPLOSION_IMG = new Image("file");
+    static final Image PLAYER_IMG = new Image("Res/Player.png");
+    static final Image EXPLOSION_IMG = new Image("Res/Bullet.png");
 
     static final int EXPLOSION_W = 128;
     static final int EXPLOSION_ROWS = 3;
@@ -20,9 +21,7 @@ public class Main extends Application {
     static final int EXPLOSION_H = 128;
     static final int EXPLOSION_STEPS = 15;
 
-    static final Image BOMBS_IMG[] { // Put all the images
-
-    }
+    static final Image BOMBS_IMG[] {}; // Put all images
 
     final int MAX_BOMBS = 10, MAX_SHOTS = MAX_BOMBS * 2;
     boolean gameOver = false;
